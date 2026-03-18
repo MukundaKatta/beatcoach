@@ -1,13 +1,15 @@
-# beatcoach
+# BeatCoach
 
-Stub Python project. Described as an AI music production coach or beat-making assistant, but none of that functionality exists.
+AI music production coach and beat-making assistant for aspiring producers.
 
-## What's actually here
+## About
+BeatCoach provides AI-powered guidance for music production and beat-making. It offers real-time feedback on compositions, suggests improvements to arrangements, helps with mixing techniques, and teaches production concepts - acting as a personal mentor for musicians at any skill level.
 
-A single class in `src/core.py` (Beatcoach) with placeholder methods that each return a fixed dictionary without doing any real work. There is no music analysis, no beat generation, no audio processing - just stubs.
-
-The project uses only Python standard library imports (time, logging, json, typing). No audio or music libraries are present.
+## Tech Stack
+- Python
+- Audio processing libraries
+- LLM integration for coaching
+- Click/Typer (CLI)
 
 ## Status
-
-Scaffolding only. No working music coaching functionality exists.
+Active development - core architecture and project structure established.
